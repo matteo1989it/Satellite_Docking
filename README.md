@@ -1,7 +1,5 @@
-# space-dl
 A convolutional neural network inspired by the YOLO algorithm to support spacecraft docking in space.
-
-The working principles and results are detailed and discussed in this blog post: [TODO]
+Training and evaluation images of the OS-SIM facility are courtesy of the [German Aerospace Center](https://www.dlr.de/DE/Home/home_node.html)
 
 ## Quickstart
 
